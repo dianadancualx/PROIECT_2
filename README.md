@@ -23,12 +23,10 @@ Aplicatia web creata in Python realizeaza interactiunea cu 2 API-uri pe baza uno
 
 Descriere servicii API utilizate
 
-Pentru realizarea aplicației s-au utilizat 2 API-uri:
-	Open Weather Map API: https://openweathermap.org/api 
-Acest API este gratuit si simplu de utilizat, contine date despre starea vremii curente, forecast pentru vreme si date istorice ale vemii pentru un anumit oras/ pozitionare georgrafica. Accesul la datele oferite se utorizeaza pe baza unei chei in urma logarii in interiorul site-ului. 
-	Google Maps API: https://developers.google.com/places/web-service/intro 
-Cu ajutorul Google Maps API putem incorpora in aplicatiile noastre hartile online oferite de Google Maps. Pentru a avea acces la detaliile oferite despre anumite locatii (deschidere harta online, returnare latitudine/longitudine, adresa) putem apela acest API prin intermediul unui java script. 
+Pentru realizarea aplicației s-au utilizat 2 API-uri: Open Weather Map API: https://openweathermap.org/api și Google Maps API: https://developers.google.com/places/web-service/intro.
+Open Weather Map API este gratuit si simplu de utilizat, contine date despre starea vremii curente, forecast pentru vreme si date istorice ale vemii pentru un anumit oras/ pozitionare georgrafica. Accesul la datele oferite se utorizeaza pe baza unei chei in urma logarii in interiorul site-ului. 
 
+Cu ajutorul Google Maps API putem incorpora in aplicatiile noastre hartile online oferite de Google Maps. Pentru a avea acces la detaliile oferite despre anumite locatii (deschidere harta online, returnare latitudine/longitudine, adresa) putem apela acest API prin intermediul unui java script. 
 
 
 Implementarea sistemului
