@@ -7,7 +7,7 @@ Proiect Cloud 2 API realizat in Python cu Flask Framework
 4. Prezentare aplicație	
 
 
-1. Descriere aplicație
+Descriere aplicație
 Termenul de API este acronimul de la ApplicationPrograming Interface, care în limba română se poate traduce ca interfață de programare a aplicațiilor si reprezintă un set de reguli si specificații cu ajutorul cărora un program poate accesa si folosi resursele oferite de un alt program. Cu alte cuvinte, un program care oferă API-uri permite altor programe sa interacționeze cu acesta automat, de la program la program sau de la program la sistem de operare, fără sa fie nevoie de folosirea unei interfețe grafice de utilizare (GUI) si fără cunoștințe legate de arhitectura sau elemente de programare ale programului ci doar folosirea specificațiilor de utilizare a API-ului oferit.
 
 Lucrul cu API-uri este foarte folosit si in mediul online, o mulțime de aplicații web furnizează accesul la serviciile oferite prin intermediul unor seturi de reguli de comunicare bine precizate. Exemple de API-uri folosite in mediul online:
